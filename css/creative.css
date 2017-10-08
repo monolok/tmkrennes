@@ -35,6 +35,10 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
+h1#homeHeading {
+  color: #F05F40;
+}
+
 p {
   font-size: 16px;
   line-height: 1.5;
@@ -187,7 +191,8 @@ header.masthead {
           margin-right: auto;
           margin-left: auto; }
           header.masthead .header-content .header-content-inner h1 {
-            font-size: 50px; }
+            font-size: 50px;
+             }
           header.masthead .header-content .header-content-inner p {
             font-size: 18px;
             max-width: 80%;
